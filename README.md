@@ -1,7 +1,9 @@
-# Analysis-in-Python-
-# Purpose: To investigate the origins of footballers in the context of the leagues in which they play. You can analyze where most of the players playing in the top leagues come from and how different nationalities are represented in different leagues.
-Objective: Investigate whether players who play more games are more susceptible to injuries. You can also analyze differences in injuries depending on the league, position on the pitch or player's age.
-
+# Analysis-in-Python
+The influence of players market value on the success of teams in the league and internationally.
+What factors determine the market value of a footballer?
+Are teams with higher total player value more successful?
+How does the market value of players change after successful seasons?
+Does the value of player transfers affect the team's results in future seasons?
 
 ## Data Source
 
