@@ -1,7 +1,6 @@
 # Analysis-in-Python-
-My first project using Python libraries such as pandas and numpy
-# Cel: Zbadanie pochodzenia piłkarzy w kontekście lig, w których grają. Możesz analizować, skąd pochodzi większość zawodników grających w topowych ligach i jak różne narodowości są reprezentowane w różnych ligach.
-Cel: Zbadaj, czy gracze, którzy grają więcej meczów, są bardziej podatni na kontuzje. Możesz również analizować różnice w kontuzjach w zależności od ligi, pozycji na boisku czy wieku zawodnika.
+# Purpose: To investigate the origins of footballers in the context of the leagues in which they play. You can analyze where most of the players playing in the top leagues come from and how different nationalities are represented in different leagues.
+Objective: Investigate whether players who play more games are more susceptible to injuries. You can also analyze differences in injuries depending on the league, position on the pitch or player's age.
 
 
 ## Data Source
